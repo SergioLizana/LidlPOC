@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LidlPOC</string>
+    <string name="active">Activo</string>
+    <string name="activado">Activado</string>
+    <string name="unactive">Desactivado</string>
+    <string name="active_action">Activar</string>
+</resources>
