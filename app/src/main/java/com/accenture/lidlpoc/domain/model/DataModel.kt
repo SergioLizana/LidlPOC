@@ -31,58 +31,58 @@ object DataModel {
         val couponDetail1 = CouponDetail(
             1,
             dummyList[0].isActive,
-            "Marca",
-            "Nombre del producto",
-            "Descripcion del producto"
+            "Lidl",
+            "Fruta Fresca",
+            "Toda la fruta fresca"
         )
         val couponDetail2 = CouponDetail(
             2,
             dummyList[1].isActive,
-            "Marca",
-            "Nombre del producto",
-            "Descripcion del producto"
+            "RealValle",
+            "Embutidos Realvalle",
+            "Embutidos Realvalle rebajados de precio"
         )
         val couponDetail3 = CouponDetail(
             3,
             dummyList[2].isActive,
-            "Marca",
-            "Nombre del producto",
-            "Descripcion del producto"
+            "Solevita",
+            "Productos Solevita",
+            "Los mejores productos Solevita"
         )
         val couponDetail4 = CouponDetail(
             4,
             dummyList[3].isActive,
-            "Marca",
-            "Nombre del producto",
-            "Descripcion del producto"
+            "Lidl",
+            "Guacamole",
+            "El mejor guacamole del mercado"
         )
         val couponDetail5 = CouponDetail(
             5,
             dummyList[4].isActive,
-            "Marca",
-            "Nombre del producto",
-            "Descripcion del producto"
+            "Alimento Perros",
+            "Alimento para perros en tarrina",
+            "Cuida a tu perro"
         )
         val couponDetail6 = CouponDetail(
             6,
             dummyList[5].isActive,
-            "Marca",
-            "Nombre del producto",
-            "Descripcion del producto"
+            "Lidl",
+            "Vino Rosado",
+            "Vino Rosado para acompañar a tus comidas"
         )
         val couponDetail7 = CouponDetail(
             7,
             dummyList[6].isActive,
-            "Marca",
-            "Nombre del producto",
-            "Descripcion del producto"
+            "Lidl",
+            "Cerveza Lidl",
+            "Pack 24 cervezas a mitad de precio"
         )
         val couponDetail8 = CouponDetail(
             8,
             dummyList[7].isActive,
-            "Marca",
-            "Nombre del producto",
-            "Descripcion del producto"
+            "Lidl",
+            "Snacks para perros",
+            "Snacks para perros"
         )
 
         dummyCouponDetailList.add(couponDetail1)
